@@ -1,6 +1,6 @@
 const nameGirl = 'công chúa://nodemy.vn';
 const eventName = 'happy birthday';
-const titleCard = 'Tặng người ấy';
+const titleCard = 'Tặng e iu';
 const contentCard = 'Chúc công chúa của anh sinh nhật tràn ngập niềm vui và những nụ cười. luôn yêu a nhiều hơn bớt bắt nạt a đi nha.và ra kia mong bé giành cho a nhiều thời gian hơn.iu e';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
